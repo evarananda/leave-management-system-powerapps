@@ -1,8 +1,10 @@
 # Leave Management System - Power Apps
 
-A leave management solution built using Microsoft Power Apps and Power Automate within the Microsoft 365 ecosystem.
+Built a fully functional leave management system within the Microsoft 365 ecosystem, enabling end-to-end leave request processing and approval workflows.
 
-The application allows employees to submit leave requests, managers to approve or reject requests, and administrators to manage leave balance and company holidays. 
+The application allows employees to submit leave requests through a dynamic form, which are automatically stored in SharePoint and trigger Power Automate approval workflows. Managers can review, approve, or reject requests directly, with real-time status updates reflected in the app.
+
+The system also includes administrative capabilities for managing employee leave balances, configuring company holidays, and maintaining centralized records. Business logic is implemented to handle validation rules, leave type conditions, and automated status transitions.
 
 ## Technologies
 - Microsoft Power Apps (Canvas)
