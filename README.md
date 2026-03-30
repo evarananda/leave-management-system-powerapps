@@ -6,6 +6,8 @@ The application allows employees to submit leave requests through a dynamic form
 
 The system also includes administrative capabilities for managing employee leave balances, configuring company holidays, and maintaining centralized records. Business logic is implemented to handle validation rules, leave type conditions, and automated status transitions.
 
+![System Architecture](screenshots/lms-systemdiagram.png)
+
 ## Technologies
 - Microsoft Power Apps (Canvas)
 - Power Automate ([See full Power Automate flow here](screenshots/all-flow.png))
